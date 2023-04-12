@@ -8,7 +8,7 @@
 
     $ https://github.com/Jamwas/famoustiktok
 
-    $ cd TikFamous
+    $ cd famoustiktok 
 
     $ pip3 install -r requirements.txt
 
